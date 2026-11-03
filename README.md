@@ -76,12 +76,17 @@
 
 ## 📊 Estatísticas
 
+## 📊 Estatísticas
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=apmaciel&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apmaciel&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="165" src="https://SEU-PROJETO.vercel.app/api?username=apmaciel&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="165" src="https://SEU-PROJETO.vercel.app/api/top-langs/?username=apmaciel&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
 </div>
 
 <div align="center">
+  <br/>
+  <i>Obrigada pela visita! ✨</i>
+</div>
   <br/>
   <i>Obrigada pela visita! ✨</i>
 </div>
